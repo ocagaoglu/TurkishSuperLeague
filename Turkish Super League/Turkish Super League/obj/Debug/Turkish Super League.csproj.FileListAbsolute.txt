@@ -1,0 +1,19 @@
+C:\Users\fener\source\repos\Turkish Super League\Turkish Super League\bin\Debug\Turkish Super League.exe.config
+C:\Users\fener\source\repos\Turkish Super League\Turkish Super League\bin\Debug\Turkish Super League.exe
+C:\Users\fener\source\repos\Turkish Super League\Turkish Super League\bin\Debug\Turkish Super League.pdb
+C:\Users\fener\source\repos\Turkish Super League\Turkish Super League\obj\Debug\Turkish_Super_League.Form1.resources
+C:\Users\fener\source\repos\Turkish Super League\Turkish Super League\obj\Debug\Turkish_Super_League.Properties.Resources.resources
+C:\Users\fener\source\repos\Turkish Super League\Turkish Super League\obj\Debug\Turkish Super League.csproj.GenerateResource.cache
+C:\Users\fener\source\repos\Turkish Super League\Turkish Super League\obj\Debug\Turkish Super League.csproj.CoreCompileInputs.cache
+C:\Users\fener\source\repos\Turkish Super League\Turkish Super League\obj\Debug\Turkish Super League.exe
+C:\Users\fener\source\repos\Turkish Super League\Turkish Super League\obj\Debug\Turkish Super League.pdb
+C:\Users\fener\source\repos\Turkish Super League\Turkish Super League\obj\Debug\Turkish_Super_League.teamScrn.resources
+C:\Users\fener\source\repos\Turkish Super League\Turkish Super League\obj\Debug\Turkish_Super_League.Team.resources
+C:\Users\fener\source\repos\Turkish Super League\Turkish Super League\obj\Debug\Turkish_Super_League.Player.resources
+C:\Users\fener\source\repos\Turkish Super League\Turkish Super League\obj\Debug\Turkish Super League.csprojAssemblyReference.cache
+C:\Users\fener\source\repos\Turkish Super League\Turkish Super League\obj\Debug\Turkish_Super_League.Manager.resources
+C:\Users\fener\source\repos\Turkish Super League\Turkish Super League\obj\Debug\Turkish_Super_League.Goal.resources
+C:\Users\fener\source\repos\Turkish Super League\Turkish Super League\obj\Debug\Turkish_Super_League.Assist.resources
+C:\Users\fener\source\repos\Turkish Super League\Turkish Super League\obj\Debug\Turkish_Super_League.Referee.resources
+C:\Users\fener\source\repos\Turkish Super League\Turkish Super League\obj\Debug\Turkish_Super_League.Stadium.resources
+C:\Users\fener\source\repos\Turkish Super League\Turkish Super League\obj\Debug\Turkish_Super_League.Match.resources
